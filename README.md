@@ -3,7 +3,11 @@ A console application which can extract metadata from image files and save it to
 
 ## Getting Started
 
-To Run this console app you need to run the following commands from the root of the project:
+Clone the code to a local directory using the command:
+
+    git clone https://github.com/WaywardHayward/simple-metadata-extractor.git
+
+Then to Run this console app you need to run the following commands from the root of the project:
 
 1. Resolve dependencies
 
